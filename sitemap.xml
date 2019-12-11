@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lemondy.github.io/2016/07/10/hive_note/</loc>
+    
+    <lastmod>2019-12-11T08:17:11.022Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lemondy.github.io/2019/12/10/hive-sampling/</loc>
     
     <lastmod>2019-12-10T03:05:50.364Z</lastmod>
@@ -199,13 +206,6 @@
   
   <url>
     <loc>http://lemondy.github.io/2015/06/06/hello-world/</loc>
-    
-    <lastmod>2019-12-10T02:44:57.243Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lemondy.github.io/2016/07/10/hive_note/</loc>
     
     <lastmod>2019-12-10T02:44:57.243Z</lastmod>
     
